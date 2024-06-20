@@ -25,4 +25,4 @@
 - Команда /values будет выводить список доступных валют.
 
 ## Переход в бота
-@NBa_QAP_Convert_Currency_bot
+[@NBa_QAP_Convert_Currency_bot](https://t.me/NBa_QAP_Convert_Currency_bot)
